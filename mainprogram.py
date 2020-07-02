@@ -1,3 +1,15 @@
+"""
+
+Oysa herkes öldürür sevdiğini
+Kulak verin bu dediklerime
+Kimi bir bakışıyla yapar bunu,
+Kimi dalkavukça sözlerle,
+Korkaklar öpücük ile öldürür,
+Yürekliler kılıç darbeleriyle!
+
+"""
+
+
 import sys
 from PyQt5.QtCore import pyqtSlot,QUrl,QTimer,QTime,QThread,pyqtSignal
 from PyQt5.QtWidgets import QApplication,QDialog,QMessageBox
